@@ -19,7 +19,7 @@
 
 <a href="https://instagram.com/dhee_rajrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhee_rajrao" height="60" width="80" /></a>
 <a href="https://www.youtube.com/c/boy with codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="boy with codes" height="60" width="80" /></a>
-<a href="https://linkedin.com/in/dhee_rajrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhee_rajrao" height="60" width="80" /></a>
+<a href="https://www.linkedin.com/in/dheeraj-kumar-3a6bb8216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhee_rajrao" height="60" width="80" /></a>
 <a href="https://codeforces.com/profile/dheeraj_rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dheeraj_rao" height="60" width="80" /></a>
 </p>
 
