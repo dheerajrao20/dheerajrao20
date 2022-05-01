@@ -40,7 +40,7 @@
 
 <h2>Popular Projects :</h2>
 
-**1.** **URLshortner** = <a href="https://github.com/dheerajrao20/URLshortner">https://github.com/dheerajrao20/URLshortner</a>
+**1.** **URLshortner** [django] = <a href="https://github.com/dheerajrao20/URLshortner">https://github.com/dheerajrao20/URLshortner</a>
 
 <h2> More Inside :</h2>
 
