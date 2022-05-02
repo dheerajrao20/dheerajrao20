@@ -42,6 +42,8 @@
 
 **1.** **URLshortner** [django] = <a href="https://github.com/dheerajrao20/URLshortner">https://github.com/dheerajrao20/URLshortner</a>
 
+**2.** **To-Do List App** [django] = <a href="https://github.com/dheerajrao20/To-Do-List-Django-">https://github.com/dheerajrao20/To-Do-List-Django-</a>
+
 <h2> More Inside :</h2>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheerajrao20&show_icons=true&locale=en&layout=compact" alt="dheerajrao20" />
