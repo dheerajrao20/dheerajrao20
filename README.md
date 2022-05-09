@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://github.com/dheerajrao20/dheerajrao20/blob/main/README.md](https://github.com/dheerajrao20/dheerajrao20/blob/main/README.md)
 
-<img src="https://github.com/dheerajrao20/dheerajrao20/blob/main/Images/art.png?raw=true" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
