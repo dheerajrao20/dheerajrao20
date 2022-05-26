@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajrao20&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajrao20" height="30" width="120" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheerajrao20" alt="dheerajrao20" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheerajrao20&theme=monokai&row=1&no-frame=true&no-bg=true/"></a> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -54,10 +54,17 @@
 
 <h2> More Inside :</h2>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheerajrao20&show_icons=true&locale=en&layout=compact" alt="dheerajrao20" />
+<p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dheerajrao20&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajrao20&theme=nightowl&show_border=true&fire=DD2727" alt="dheerajrao20" />
+</p>
+<img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=dheerajrao20&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="dheerajrao20" />
 
+<summary>:chart_with_upwards_trend: Contribution Graph </summary>
+   <br/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=dheerajrao20&theme=xcode" alt="Contribution Graph" align="center" />
+<br>
+<p>
+  <a href="https://github.com/arpit456jain" >  <img src="https://github.com/arpit456jain/arpit456jain/blob/output/github-contribution-grid-snake.gif" align="center" />  </a>
+  </p>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheerajrao20&show_icons=true&locale=en" alt="dheerajrao20" />
-
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajrao20&" alt="dheerajrao20" />
