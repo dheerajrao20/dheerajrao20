@@ -64,7 +64,5 @@
    <br/>
    <img src="https://activity-graph.herokuapp.com/graph?username=dheerajrao20&theme=xcode" alt="Contribution Graph" align="center" />
 <br>
-<p>
-  <a href="https://github.com/arpit456jain" >  <img src="https://github.com/arpit456jain/arpit456jain/blob/output/github-contribution-grid-snake.gif" align="center" />  </a>
-  </p>
+
 
