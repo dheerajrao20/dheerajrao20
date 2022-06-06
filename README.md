@@ -44,9 +44,9 @@
 
 <h2>Popular Projects :</h2>
 
-**1.** **URLshortner** [django] = <a href="https://github.com/dheerajrao20/URLshortner">https://github.com/dheerajrao20/URLshortner</a>
+**1.** **URLshortner** [django] = <a href="https://github.com/dheerajrao20/URLshortner">https://github.com/dheerajrao20/URLshortner</a> ➡️➡️➡️ ***<a href="https://easyurlshortnerhere.herokuapp.com">easyurlshortnerhere.herokuapp.com</a>***
 
-**2.** **To-Do List App** [django] = <a href="https://github.com/dheerajrao20/To-Do-List-Django-">https://github.com/dheerajrao20/To-Do-List-Django-</a>
+**2.** **To-Do List App** [django] = <a href="https://github.com/dheerajrao20/To-Do-List-Django-">https://github.com/dheerajrao20/To-Do-List-Django-</a>➡️➡️➡️ ***<a href="https://easynewtodolist.herokuapp.com">easynewtodolist.herokuapp.com</a>***
 
 **3.** **English Dictionary** [django] = <a href="https://github.com/dheerajrao20/English-Dictionary">https://github.com/dheerajrao20/English-Dictionary</a>
 
