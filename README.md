@@ -16,6 +16,23 @@
 
 - 📄 Know about my experiences [https://github.com/dheerajrao20/dheerajrao20/blob/main/README.md](https://github.com/dheerajrao20/dheerajrao20/blob/main/README.md)
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://instagram.com/dhee_rajrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhee_rajrao" height="60" width="80" /></a>
+<a href="https://www.youtube.com/channel/UCHUZS2VgprpnN1dtLqb6ABA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="boy with codes" height="60" width="80" /></a>
+<a href="https://www.linkedin.com/in/dheeraj-kumar-3a6bb8216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhee_rajrao" height="60" width="80" /></a>
+<a href="https://codeforces.com/profile/dheeraj_rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dheeraj_rao" height="60" width="80" /></a>
+</p>
+
+  <h2>Experiences :</h2>
+  
+**1.** **Shivanjali Society** [Intern] = <a href="https://github.com/BHAVJOT14/Shivanjali-Society">https://github.com/BHAVJOT14/Shivanjali-Society</a> 
+
+**2.** **Open-Source E-learning Website
+** [Contributor] = <a href="https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e">https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e</a>
+  
 <h2>Popular Projects :</h2>
 
 **1.** **URLshortner** [django] = <a href="https://github.com/dheerajrao20/URLshortner">https://github.com/dheerajrao20/URLshortner</a> ➡️➡️➡️ ***<a href="https://easyurlshortnerhere.herokuapp.com">easyurlshortnerhere.herokuapp.com</a>***
@@ -27,15 +44,6 @@
 **4.** **Feed the Dragon** [Pygame] = <a href="https://github.com/dheerajrao20/Feed-the-Dragon">https://github.com/dheerajrao20/Feed-the-Dragon</a>
 
 **4.** **Signature-Steganography** [Django] = <a href="https://github.com/dheerajrao20/Signature-Steganography">https://github.com/dheerajrao20/Signature-Steganography</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://instagram.com/dhee_rajrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhee_rajrao" height="60" width="80" /></a>
-<a href="https://www.youtube.com/channel/UCHUZS2VgprpnN1dtLqb6ABA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="boy with codes" height="60" width="80" /></a>
-<a href="https://www.linkedin.com/in/dheeraj-kumar-3a6bb8216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhee_rajrao" height="60" width="80" /></a>
-<a href="https://codeforces.com/profile/dheeraj_rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dheeraj_rao" height="60" width="80" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
