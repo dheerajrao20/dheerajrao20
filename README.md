@@ -30,8 +30,7 @@
   
 **1.** **Shivanjali Society** [Intern] = <a href="https://github.com/BHAVJOT14/Shivanjali-Society">https://github.com/BHAVJOT14/Shivanjali-Society</a> 
 
-**2.** **Open-Source E-learning Website
-** [Contributor] = <a href="https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e">https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e</a>
+**2.** **Open-Source E-learning Website** [Contributor] = <a href="https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e">https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e</a>
   
 <h2>Popular Projects :</h2>
 
