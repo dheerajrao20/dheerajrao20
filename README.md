@@ -27,21 +27,17 @@
 
   <h2>Experiences :</h2>
   
-**1.** **Shivanjali Society** [Intern] = <a href="https://github.com/BHAVJOT14/Shivanjali-Society">https://github.com/BHAVJOT14/Shivanjali-Society</a> 
+**1.** **Shivanjali Society** [Intern] = <a href="https://shivanjalisociety.in">https://shivanjalisociety.in/</a> 
 
-**2.** **Open-Source E-learning Website** [Contributor] = <a href="https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e">https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e</a>
+<h2>Open Source Contribution :</h2>
+
+**1.** **E-learning Website** [Contributor] = <a href="https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e">https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e</a>
   
 <h2>Popular Projects :</h2>
 
-**1.** **URLshortner** [django] = <a href="https://github.com/dheerajrao20/URLshortner">https://github.com/dheerajrao20/URLshortner</a> ➡️➡️➡️ ***<a href="https://easyurlshortnerhere.herokuapp.com">easyurlshortnerhere.herokuapp.com</a>***
+**1.** **Feed the Dragon** [Pygame] = <a href="https://github.com/dheerajrao20/Feed-the-Dragon">https://github.com/dheerajrao20/Feed-the-Dragon</a>
 
-**2.** **To-Do List App** [django] = <a href="https://github.com/dheerajrao20/To-Do-List-Django-">https://github.com/dheerajrao20/To-Do-List-Django-</a>➡️➡️➡️ ***<a href="https://easynewtodolist.herokuapp.com">easynewtodolist.herokuapp.com</a>***
-
-**3.** **English Dictionary** [django] = <a href="https://github.com/dheerajrao20/English-Dictionary">https://github.com/dheerajrao20/English-Dictionary</a>
-
-**4.** **Feed the Dragon** [Pygame] = <a href="https://github.com/dheerajrao20/Feed-the-Dragon">https://github.com/dheerajrao20/Feed-the-Dragon</a>
-
-**4.** **Signature-Steganography** [Django] = <a href="https://github.com/dheerajrao20/Signature-Steganography">https://github.com/dheerajrao20/Signature-Steganography</a>
+**2.** **Signature-Steganography** [Django] = <a href="https://github.com/dheerajrao20/Signature-Steganography">https://github.com/dheerajrao20/Signature-Steganography</a>
 
 <h3 align="left">Languages and Tools:</h3>
 
