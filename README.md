@@ -4,12 +4,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheerajrao20&theme=monokai&row=1&no-frame=true&no-bg=true/"></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
-
-- Want a Website : <a href="https://www.fiverr.com/share/84pgxv">https://www.fiverr.com/share/84pgxv</a>
-
-- 🌱 I’m currently learning **Django**
-
 - 👨‍💻 All of my projects are available at [https://github.com/dheerajrao20/](https://github.com/dheerajrao20/)
 
 - 📫 How to reach me **dheerajrao20@outlook.com**
