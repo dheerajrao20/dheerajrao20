@@ -22,7 +22,9 @@
 
 <h2>Open Source Contribution :</h2>
 
-**1.** **E-learning Website** [Contributor] = <a href="https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e">https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e</a>
+**1.** **BigB E-learning Website** [Contributor] = <a href="https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e">https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e</a>
+
+**2.** **Hacktoberfest 2022
   
 <h2>Popular Projects :</h2>
 
@@ -53,9 +55,6 @@
 </p>
 <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=dheerajrao20&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="dheerajrao20" />
 
-<summary>:chart_with_upwards_trend: Contribution Graph </summary>
-   <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=dheerajrao20&theme=xcode" alt="Contribution Graph" align="center" />
-<br>
+
 
 
