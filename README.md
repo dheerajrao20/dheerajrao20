@@ -1,12 +1,16 @@
-<h1 align="center">Hi there 👋, I'm Dheeraj Rao</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h1 align="center">Hey there 👋, I'm Dheeraj Rao</h1>
 <p align="center">
 
+  <div align="center">
+    
 <!--   view count  -->
 ![](https://komarev.com/ghpvc/?username=dheerajrao20&color=blueviolet&label=Profile+Views)
-<!-- spotify tag -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3isa928ecjf5vt1wto9ablsg6&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+    
+  </div>
   
+  <!-- spotify tag -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3isa928ecjf5vt1wto9ablsg6&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheerajrao20&theme=monokai&row=1&no-frame=true&no-bg=true/"></a> </p>
 
@@ -37,8 +41,9 @@
 **1.** **Feed the Dragon** [Pygame] = <a href="https://github.com/dheerajrao20/Feed-the-Dragon">https://github.com/dheerajrao20/Feed-the-Dragon</a>
 
 **2.** **Signature-Steganography** [Django] = <a href="https://github.com/dheerajrao20/Signature-Steganography">https://github.com/dheerajrao20/Signature-Steganography</a>
-
 <div>&nbsp;</div>
+<hr>
+
  <div align="center"> 
 <img height="65" alt="Ossama Mehmood | Facebook" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" />
  </div>
