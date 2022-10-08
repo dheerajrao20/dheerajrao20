@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Dheeraj Rao</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <p align="center">
-  
-![](https://komarev.com/ghpvc/?username=dheerajrao20&color=blueviolet&label=Profile+Views)
 
+<!--   view count  -->
+![](https://komarev.com/ghpvc/?username=dheerajrao20&color=blueviolet&label=Profile+Views)
+<!-- spotify tag -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3isa928ecjf5vt1wto9ablsg6&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
 </p>
