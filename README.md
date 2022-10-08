@@ -1,10 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Dheeraj Rao</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-
+<p align="center">
+  
 ![](https://komarev.com/ghpvc/?username=dheerajrao20&color=blueviolet&label=Profile+Views)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315vpddmyl5nfod27cmtpp7oebsu&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=6641ec&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3isa928ecjf5vt1wto9ablsg6&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  
+</p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheerajrao20&theme=monokai&row=1&no-frame=true&no-bg=true/"></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/dheerajrao20/](https://github.com/dheerajrao20/)
