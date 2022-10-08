@@ -47,13 +47,15 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/14a503a7ca9e1ae481e9304f78d5b7964ae914794457ad5a1986da42817c82d7/68747470733a2f2f6c6f676f732d646f776e6c6f61642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30362f446a616e676f5f4c6f676f2e706e67" alt="django" width="80" height="40"/> </a>
 </p>
 
-<h2> More Inside :</h2>
-
-<p>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dheerajrao20&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajrao20&theme=nightowl&show_border=true&fire=DD2727" alt="dheerajrao20" />
+<hr>
+<p align="center">
+  
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=dheerajrao20&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=dheerajrao20&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  
 </p>
-<img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=dheerajrao20&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="dheerajrao20" />
+
 
 
 
