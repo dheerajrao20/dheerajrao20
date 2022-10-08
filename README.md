@@ -24,7 +24,7 @@
 
 **1.** **BigB E-learning Website** [Contributor] = <a href="https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e">https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e</a>
 
-**2.** **Hacktoberfest 2022
+**2.** **Hacktoberfest 2022**
   
 <h2>Popular Projects :</h2>
 
