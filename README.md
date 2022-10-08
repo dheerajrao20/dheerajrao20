@@ -8,11 +8,15 @@
     
   </div>
   
+  
   <!-- spotify tag -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3isa928ecjf5vt1wto9ablsg6&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+   <div>&nbsp;</div>
 
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheerajrao20&theme=monokai&row=1&no-frame=true&no-bg=true/"></a> </p>
+
+<!-- youtube art  -->
+<img src="https://github.com/dheerajrao20/dheerajrao20/blob/main/Images/channel.jpg?raw=true" />
 
 - 👨‍💻 All of my projects are available at [https://github.com/dheerajrao20/](https://github.com/dheerajrao20/)
 
