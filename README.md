@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Dheeraj Rao</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajrao20&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajrao20" height="30" width="120" /> </p>
+
+![](https://komarev.com/ghpvc/?username=dheerajrao20&color=blueviolet&label=Profile+Views)
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheerajrao20&theme=monokai&row=1&no-frame=true&no-bg=true/"></a> </p>
 
@@ -56,6 +58,7 @@
   
 </p>
 
+<img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
 
 
 
