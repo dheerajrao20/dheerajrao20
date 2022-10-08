@@ -1,7 +1,17 @@
-<h1 align="center">Hi there 👋, I'm Dheeraj Rao</h1>
-<h3 align="center">A passionate Web developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajrao20&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajrao20" height="30" width="120" /> </p>
+<h1 align="center">Hey there 👋, I'm Dheeraj Rao</h1>
+<p align="center">
 
+  <div align="center">
+    
+<!--   view count  -->
+![](https://komarev.com/ghpvc/?username=dheerajrao20&color=blueviolet&label=Profile+Views)
+    
+  </div>
+  
+  <!-- spotify tag -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3isa928ecjf5vt1wto9ablsg6&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheerajrao20&theme=monokai&row=1&no-frame=true&no-bg=true/"></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/dheerajrao20/](https://github.com/dheerajrao20/)
@@ -31,29 +41,55 @@
 **1.** **Feed the Dragon** [Pygame] = <a href="https://github.com/dheerajrao20/Feed-the-Dragon">https://github.com/dheerajrao20/Feed-the-Dragon</a>
 
 **2.** **Signature-Steganography** [Django] = <a href="https://github.com/dheerajrao20/Signature-Steganography">https://github.com/dheerajrao20/Signature-Steganography</a>
+<div>&nbsp;</div>
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
+ <div align="center"> 
+<img height="65" alt="Ossama Mehmood | Facebook" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" />
+ </div>
+<div>&nbsp;</div>
 
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a>  
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="70"/> </a> 
+  <div align="center">
   
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/14a503a7ca9e1ae481e9304f78d5b7964ae914794457ad5a1986da42817c82d7/68747470733a2f2f6c6f676f732d646f776e6c6f61642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30362f446a616e676f5f4c6f676f2e706e67" alt="django" width="80" height="40"/> </a>
+  </div>
+
+
+<hr>
+<p align="center">
+  
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=dheerajrao20&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=dheerajrao20&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  
 </p>
 
-<h2> More Inside :</h2>
-
-<p>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dheerajrao20&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajrao20&theme=nightowl&show_border=true&fire=DD2727" alt="dheerajrao20" />
+<p align="center">
+<img height="150" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
 </p>
-<img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=dheerajrao20&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="dheerajrao20" />
+
 
 
 
