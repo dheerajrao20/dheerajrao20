@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-<img height="100" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
+<img height="150" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
 </p>
 
 
