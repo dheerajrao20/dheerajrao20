@@ -16,11 +16,11 @@
 </p>
 
 <!-- youtube tag  -->
-<a href="https://www.youtube.com/channel/UC-22sS-BXL6XlsI5gAnMXYg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<!-- <a href="https://www.youtube.com/channel/UC-22sS-BXL6XlsI5gAnMXYg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a> -->
 
 <!-- youtube art  -->
-<a href="https://www.youtube.com/channel/UC-22sS-BXL6XlsI5gAnMXYg?sub_confirmation=1">
-<img src="https://github.com/dheerajrao20/dheerajrao20/blob/main/Images/channel.jpg?raw=true" /></a>
+<!-- <a href="https://www.youtube.com/channel/UC-22sS-BXL6XlsI5gAnMXYg?sub_confirmation=1">
+<img src="https://github.com/dheerajrao20/dheerajrao20/blob/main/Images/channel.jpg?raw=true" /></a> -->
 
 
 <h3 align="center">Connect with me:</h3>
