@@ -15,21 +15,21 @@
 
 </p>
 
+<!-- youtube tag  -->
 <a href="https://www.youtube.com/channel/UC-22sS-BXL6XlsI5gAnMXYg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 <!-- youtube art  -->
-<img src="https://github.com/dheerajrao20/dheerajrao20/blob/main/Images/channel.jpg?raw=true" />
-
-- 👨‍💻 All of my projects are available at [https://github.com/dheerajrao20/](https://github.com/dheerajrao20/)
-
-- 📫 How to reach me **dheerajrao20@outlook.com**
-
-- 📄 Know about my experiences [https://github.com/dheerajrao20/dheerajrao20/blob/main/README.md](https://github.com/dheerajrao20/dheerajrao20/blob/main/README.md)
+<a href="https://www.youtube.com/channel/UC-22sS-BXL6XlsI5gAnMXYg?sub_confirmation=1">
+<img src="https://github.com/dheerajrao20/dheerajrao20/blob/main/Images/channel.jpg?raw=true" /></a>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dheeraj-kumar-3a6bb8216/" target="blank"><img align="center" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="dhee_rajrao" height="" width="80" /></a>
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/dheeraj-kumar-3a6bb8216/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dheeraj-kumar-3a6bb8216/" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/dhee_rajrao/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/dhee_rajrao/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
   <h2>Experiences :</h2>
