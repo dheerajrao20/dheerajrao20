@@ -35,6 +35,7 @@
   <h2>Experiences :</h2>
   
 **1.** **Shivanjali Society** [Intern] = <a href="https://shivanjalisociety.in">https://shivanjalisociety.in/</a> 
+**2.** **_VOIS** [Mentee] = <a href="https://github.com/AryanDeswal/Steagnox">Steagnox</a> 
 
 <h2>Open Source Contribution :</h2>
 
